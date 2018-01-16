@@ -27,3 +27,8 @@ jobs:
 
       # run tests!
       - run: npm run eslint -s
+workflows:
+  version: 2
+  test:
+    jobs:
+      - eslint
