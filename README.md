@@ -1,6 +1,8 @@
 NEEO driver for Google Cast media controls
 =====================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/quintstoffers/neeo-driver-googlecast.svg)](https://greenkeeper.io/)
+
 This is a driver to enable NEEO to control media playing on Google Cast devices. It does not intend to initiate casting media to cast devices such as Chromecast and Chromecast Audio.
 
 ## Running this driver
