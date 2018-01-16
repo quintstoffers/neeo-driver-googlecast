@@ -19,7 +19,3 @@ Logging can be enabled through the `DEBUG` environment variable.
 ```$xslt
 DEBUG=googlecast:* npm start
 ```
-
-## Known issues
-
-- Sometimes a device stops responding to NEEO commands, logs show the device has not yet been discovered. (#issuenotyetcreated).
