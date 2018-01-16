@@ -1,0 +1,40 @@
+{
+  "name": "neeo-driver-googlecast",
+  "version": "0.0.1",
+  "description": "A NEEO driver for Google Cast devices.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quintstoffers/neeo-driver-googlecast.git"
+  },
+  "keywords": [
+    "neeo",
+    "chromecast",
+    "castv2",
+    "cast",
+    "driver"
+  ],
+  "author": "Quint Stoffers",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/quintstoffers/neeo-driver-googlecast/issues"
+  },
+  "homepage": "https://github.com/quintstoffers/neeo-driver-googlecast#readme",
+  "dependencies": {
+    "castv2": "^0.1.9",
+    "debug": "^3.1.0",
+    "dotenv": "^4.0.0",
+    "mdns": "^2.3.4",
+    "neeo-sdk": "^0.48.13",
+    "reify": "^0.13.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}

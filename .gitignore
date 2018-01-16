@@ -1,0 +1,14 @@
+# IDE files
+.idea
+
+# Reify cache
+.reify-cache
+
+# Dotenv environment variables
+.env
+
+# Dependencies
+node_modules
+
+# Logs
+npm-debug.log
