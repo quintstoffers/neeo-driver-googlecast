@@ -22,4 +22,4 @@ DEBUG=googlecast:* npm start
 
 ## Known issues
 
-- Sometimes a device stops responding to NEEO commands, logs show the device has not yet been discovered. (#issuenotyetcreated).
+None as of now. Please create issues for any bugs you encounter.
