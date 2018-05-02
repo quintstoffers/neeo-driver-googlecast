@@ -31,7 +31,7 @@
     "dns-txt": "^2.0.2",
     "dotenv": "^4.0.0",
     "multicast-dns": "^6.2.1",
-    "neeo-sdk": "^0.48.13",
+    "neeo-sdk": "^0.49.2",
     "reify": "^0.13.2"
   },
   "devDependencies": {
