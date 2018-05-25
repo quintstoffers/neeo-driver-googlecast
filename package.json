@@ -1,10 +1,9 @@
 {
   "name": "neeo-driver-googlecast",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A NEEO driver for Google Cast devices.",
-  "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "neeo-sdk start",
     "test": "echo \"Error: no test specified\" && exit 1",
     "eslint": "eslint ."
   },
@@ -29,9 +28,7 @@
     "bonjour": "^3.5.0",
     "castv2": "^0.1.9",
     "debug": "^3.1.0",
-    "dotenv": "^4.0.0",
-    "neeo-sdk": "^0.49.2",
-    "reify": "^0.13.2"
+    "neeo-sdk": "^0.50.5"
   },
   "devDependencies": {
     "eslint": "^4.13.1",
