@@ -5,7 +5,8 @@
   "scripts": {
     "start": "neeo-sdk start",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "eslint": "eslint ."
+    "eslint": "eslint .",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -32,6 +33,7 @@
   },
   "devDependencies": {
     "eslint": "^4.13.1",
-    "eslint-plugin-import": "^2.8.0"
+    "eslint-plugin-import": "^2.8.0",
+    "standard-version": "^4.4.0"
   }
 }
